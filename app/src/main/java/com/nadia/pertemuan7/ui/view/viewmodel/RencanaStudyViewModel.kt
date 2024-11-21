@@ -7,4 +7,5 @@ import kotlinx.coroutines.flow.asStateFlow
 
 class RencanaStudyViewModel {
     private val _krsState = MutableStateFlow(RencanaStudi())
+    val krsStateUi : StateFlow<RencanaStudi> = _krsState.asStateFlow()
 }
