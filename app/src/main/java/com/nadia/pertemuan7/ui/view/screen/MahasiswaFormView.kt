@@ -39,7 +39,7 @@ import com.nadia.pertemuan7.model.Mahasiswa
 
 @Composable
 fun MahasiswaFormView(
-    modifier: Modifier,
+    modifier: Modifier = Modifier,
     onSubmitButtonClicked: (MutableList<String>) -> Unit,
     onBackButtonClicked: () -> Unit
 ){
