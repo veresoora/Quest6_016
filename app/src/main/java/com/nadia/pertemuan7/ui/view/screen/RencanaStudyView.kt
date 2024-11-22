@@ -174,7 +174,7 @@ fun RencanaStudyView(
                     modifier = Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.SpaceEvenly
                 ){
-                    Button(onClick = {onSubmitButtonClicked(listData)}) {
+                    Button(onClick = {onBackButtonCLicked()}) {
                         Text(text = "Kembali")
                     }
                     Button(onClick = {onSubmitButtonClicked(listData)}, enabled = checked) {
