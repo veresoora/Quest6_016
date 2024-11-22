@@ -74,7 +74,7 @@ fun DetailMahasiswa(
                 modifier = Modifier.weight(1f)
             )
             Text(
-                text = ".",
+                text = ":",
                 modifier = Modifier.weight(0.2f)
             )
             Text(
