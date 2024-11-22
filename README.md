@@ -8,4 +8,4 @@
    ![Halaman Matkul](https://github.com/user-attachments/assets/b075ebd1-e470-404d-aeff-ecaafa9ff141)
 
 4. Halaman tampilan data
-   ![Tampilan data](https://github.com/user-attachments/assets/26e8964b-01ec-4c70-a90d-52772f36cf7f)
+![Halaman tampilan data](https://github.com/user-attachments/assets/46bed4e9-fa9c-413c-981f-fa73ffc0cb6e)
